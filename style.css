@@ -1,0 +1,68 @@
+.heading{
+  text-align: center;
+   font-family: 'SairaSemiCondensedRegular';
+   font-weight: normal;
+   font-style: normal;
+ }
+
+
+
+table{
+border-spacing: 20px;
+}
+
+td{
+  width: 80px;
+  height: 200px;
+}
+#one{
+ background-color: #D9D057;
+}
+
+#two{
+  background-color: #8BAD60;
+}
+
+#three{
+  background-color: #659D60;
+}
+
+#four{
+  background-color: #488683;
+}
+
+#five{
+  background-color: #3F6CA7;
+}
+
+#six{
+  background-color: #4A537E;
+}
+
+#seven{
+  background-color: #664B7E;
+}
+
+#eight{
+  background-color: #8D5675;
+}
+
+#nine{
+  background-color: #A7516C;
+}
+
+#ten{
+  background-color: #C75B51;
+}
+
+#eleven{
+  background-color: #C96A34;
+}
+
+#twelve{
+  background-color: #D5892B;
+}
+
+#thirteen{
+  background-color: #DFC53C;
+}
